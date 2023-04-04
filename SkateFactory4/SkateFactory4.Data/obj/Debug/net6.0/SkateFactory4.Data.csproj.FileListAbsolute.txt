@@ -1,0 +1,15 @@
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\bin\Debug\net6.0\SkateFactory4.Data.deps.json
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\bin\Debug\net6.0\SkateFactory4.Data.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\bin\Debug\net6.0\SkateFactory4.Data.pdb
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\bin\Debug\net6.0\SkateFactory4.Models.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\bin\Debug\net6.0\SkateFactory4.Models.pdb
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.csproj.AssemblyReference.cache
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.AssemblyInfoInputs.cache
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.AssemblyInfo.cs
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.csproj.CoreCompileInputs.cache
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.csproj.CopyComplete
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\refint\SkateFactory4.Data.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\SkateFactory4.Data.pdb
+C:\ASP.NET\SkateFactory4\SkateFactory4.Data\obj\Debug\net6.0\ref\SkateFactory4.Data.dll

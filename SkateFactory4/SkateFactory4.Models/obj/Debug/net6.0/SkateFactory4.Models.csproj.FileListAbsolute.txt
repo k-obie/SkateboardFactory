@@ -1,0 +1,12 @@
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\bin\Debug\net6.0\SkateFactory4.Models.deps.json
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\bin\Debug\net6.0\SkateFactory4.Models.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\bin\Debug\net6.0\SkateFactory4.Models.pdb
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.csproj.AssemblyReference.cache
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.AssemblyInfoInputs.cache
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.AssemblyInfo.cs
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.csproj.CoreCompileInputs.cache
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\refint\SkateFactory4.Models.dll
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\SkateFactory4.Models.pdb
+C:\ASP.NET\SkateFactory4\SkateFactory4.Models\obj\Debug\net6.0\ref\SkateFactory4.Models.dll

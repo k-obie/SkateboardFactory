@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SkateFactory4.WebAPI.props" />
+</Project>

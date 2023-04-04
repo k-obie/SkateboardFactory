@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SkateFactory4.WebUI.props" />
+</Project>

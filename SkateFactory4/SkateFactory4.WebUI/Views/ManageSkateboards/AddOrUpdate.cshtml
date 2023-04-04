@@ -1,0 +1,82 @@
+﻿@using SkateFactory4.WebUI.WebApiClients;
+@model Skateboard;
+
+@if (Model == null) {
+    <h1>Add</h1>
+}
+else {
+    <h1>Update</h1>
+}
+
+<h4>Skateboard</h4>
+<hr />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="AddOrUpdate">
+
+                <label asp-for="Name" class="control-label"></label>
+                <span asp-validation-for="Name" class="text-danger"></span>
+                <input asp-for="Name" class="form-control" />
+
+                <label asp-for="Weight" class="control-label"></label>
+                <span asp-validation-for="Weight" class="text-danger"></span>
+                <input asp-for="Weight" class="form-control" />
+
+                <label asp-for="Color" class="control-label"></label>
+                <span asp-validation-for="Color" class="text-danger"></span>
+                <select asp-for="Color" class="form-control">
+                    @foreach (EColor item in Enum.GetValues(typeof(EColor)))
+                    {
+                        <option value="@Convert.ToInt32(item)">@item</option>
+                    }
+                </select>
+
+                <label asp-for="SkateType" class="control-label"></label>
+                <span asp-validation-for="SkateType" class="text-danger"></span>
+                <select asp-for="SkateType" class="form-control">
+                    @foreach (ESkateType item in Enum.GetValues(typeof(ESkateType)))
+                    {
+                        <option value="@Convert.ToInt32(item)">@item</option>
+                    }
+                </select>
+
+                <label asp-for="BrakeType" class="control-label"></label>
+                <span asp-validation-for="BrakeType" class="text-danger"></span>
+                <select asp-for="BrakeType" class="form-control">
+                    @foreach (EBrakeType item in Enum.GetValues(typeof(EBrakeType)))
+                    {
+                        <option value="@Convert.ToInt32(item)">@item</option>
+                    }
+                </select>
+
+                <label asp-for="ShapeType" class="control-label"></label>
+                <span asp-validation-for="ShapeType" class="text-danger"></span>
+                <select asp-for="ShapeType" class="form-control">
+                    @foreach (EShapeType item in Enum.GetValues(typeof(EShapeType)))
+                    {
+                        <option value="@Convert.ToInt32(item)">@item</option>
+                    }
+                </select>
+
+                @if (Model == null)
+                {
+                    <input type="submit" value="Add" class="btn btn-primary vspace" />
+                }
+                else
+                {
+                    <input type="hidden" name="Id" value="@Model.Id" />
+                    <input type="submit" value="Update" class="btn btn-primary vspace" />
+                }
+
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
